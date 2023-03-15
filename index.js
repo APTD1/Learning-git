@@ -9,4 +9,6 @@
 // git add finename
 // git add .A (add files in current and parent dir)
 // git add . (add files in current dirctory) 
+// git log 
+Console.log("hello git"); 
 
