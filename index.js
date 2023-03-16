@@ -16,5 +16,5 @@ Console.log("hello git");
 //Shift column
 // wq Enter
 // git diff (check difference in last commit and present working tree)
-
+// git remote add origin https://github.com/APTD1/Learning-git.git 
 
