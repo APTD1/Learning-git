@@ -11,4 +11,10 @@
 // git add . (add files in current dirctory) 
 // git log 
 Console.log("hello git"); 
+// vi finename
+// Escape
+//Shift column
+// wq Enter
+// git diff (check difference in last commit and present working tree)
+
 
